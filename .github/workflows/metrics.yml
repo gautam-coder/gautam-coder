@@ -1,12 +1,12 @@
-name: Metrics Card
+name: Metrics
 
 on:
   schedule:
-    - cron: "30 5 * * *" # daily
+    - cron: "30 5 * * *" # daily refresh
   workflow_dispatch:
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -17,14 +17,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: percentage
+          plugin_stars: yes
           plugin_followup: yes
-          plugin_topics: yes
-          plugin_topics_sort: activity
-          plugin_lines: yes
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
