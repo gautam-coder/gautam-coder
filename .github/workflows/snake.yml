@@ -25,4 +25,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          token: ${{ secrets.METRICS_TOKEN }}   # 👈 use the same PAT as Metrics
+          token: ${{ secrets.METRICS_TOKEN }}   # 👈 force use of your PAT
