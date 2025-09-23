@@ -108,9 +108,9 @@ With 3+ years of professional experience, I’ve delivered solutions that helped
 
 ## 🚀 Featured Projects
 
-- **PerceiveNow.ai** → Multi-agent diligence platform with RAG search and report automation  
-- **DSME** → Distributed secure media exchange (QUIC/UDP, resumable uploads, blockchain logging)  
-- **DColor** → AI-powered film color grading (scene analysis, LUT/CDL/EXR export, real-time previews)  
+- **Enterprise OS** → Multi-agent diligence platform with RAG search and report automation  
+- **DSME Fast File Sharing** → Distributed secure media exchange (QUIC/UDP, resumable uploads, blockchain logging)  
+- **Color Grading** → AI-powered film color grading (scene analysis, LUT/CDL/EXR export, real-time previews)  
 - **AI Humanizer & Detectors** → Stylometry-aware text humanization + robust AI detection models  
 - **AI Job Applier** → Automated resume tailoring, job search, and one-click applications  
 
