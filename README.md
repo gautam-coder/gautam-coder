@@ -5,7 +5,7 @@
 
 <!-- Hero / Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Gautam+Gaur;AI+Engineer+%7C+Data+Scientist+%7C+Python+Developer;Multi-Agent+Systems+%26+RAG+Pipelines;Scaling+AI+Products+to+Millions" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Gautam+Gaur;AI+Engineer+%7C+Data+Scientist+%7C+Python+Developer;Multi-Agent+Systems+%26+RAG+Pipelines;Trained+Custom+AI+Models+with+LoRA+%26+GRPO;Scaling+AI+Products+to+Millions+of+Users" alt="Typing intro" />
 </p>
 
 <!-- Quick badges -->
@@ -13,102 +13,125 @@
   <a href="https://github.com/gautam-coder">
     <img src="https://komarev.com/ghpvc/?username=gautam-coder&style=for-the-badge" alt="Profile views" />
   </a>
-  <a href="mailto:gautamgaur@gmail.com">
+  <a href="mailto:gaurgoutam@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gautamgaur/">
+  <a href="https://www.linkedin.com/in/gautam-g-a07623193/">
     <img src="https://img.shields.io/badge/LinkedIn-Gautam%20Gaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👋 About Me
-- 🔭 Building **multi-agent orchestration & RAG** pipelines, end-to-end AI systems, and real-time automation
-- 🧠 Strengths: **Python, FastAPI, NLP/LLMs, Vector DBs, Cloud (Azure/AWS/GCP), MLOps**
-- 🧩 Love: **AI humanization, compliance, scalable backend design, data pipelines**
-- 🤝 Open to collaboration on **AI tools, media-tech pipelines (QUIC/UDP), and enterprise automation**
+## 👋 About Me
+
+I am **Gautam Gaur**, an **AI Engineer, Data Scientist, and Python Developer** with expertise in building **scalable AI systems, multi-agent architectures, and custom-trained models**.  
+With 3+ years of professional experience, I’ve delivered solutions that helped startups **raise funding, secure IP, and scale AI-driven products to millions of users**.
+
+### 🔹 What I Do
+- 🧠 **AI Model Training** → Fine-tuned LLMs using **LoRA, GRPO reinforcement, contrastive learning, and stylometry-based features**.  
+- 🤖 **Multi-Agent & MCP Architectures** → Designed **Model Control Plane (MCP)** frameworks that orchestrate specialized AI agents for **RAG pipelines, compliance, reasoning, and humanization**.  
+- 🧩 **AI Humanization & Detection** → Built **detectors + humanizers** that outperform GPTZero and Copyleaks in precision and recall.  
+- ⚡ **Distributed Systems** → Engineered **DSME (Distributed Secure Media Exchange)** leveraging QUIC/UDP, resumable chunk uploads, and blockchain audit logging.  
+- 📊 **Data Science & Automation** → Automated **research reports, resume/job applications, and real-time data pipelines** with FastAPI, Python, and NLP/ML techniques.  
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,pytorch,tensorflow,opencv,sklearn,postgresql,mysql,mongodb,redis,selenium,docker,aws,azure,gcp,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,pytorch,tensorflow,sklearn,opencv,postgresql,mysql,mongodb,redis,selenium,docker,aws,azure,gcp,linux,git,github" />
 </p>
 
+- **Languages**: Python, C++, Dart, SQL, HTML/CSS  
+- **AI/ML**: PyTorch, TensorFlow, Hugging Face Transformers, LangChain  
+- **Techniques**: RAG, LoRA, GRPO, PEFT, stylometry, contrastive learning, GANs, diffusion models  
+- **Frameworks**: FastAPI, Django, Flask, Celery, OpenCV  
+- **Cloud/Tools**: Azure, AWS, GCP, Docker, Runpod, GitHub Actions, Linux  
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
+
 ---
 
-## ⚡ Live GitHub Analytics (auto-updates)
+## ⚡ Live GitHub Analytics
 
 <p align="center">
-  <!-- Total stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=gautam-coder&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170" />
-  <!-- Streaks -->
   <img src="https://streak-stats.demolab.com?user=gautam-coder&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <!-- Profile summary card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gautam-coder&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Languages & repos (summary-cards set) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gautam-coder&theme=radical" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gautam-coder&theme=radical" height="150" />
 </p>
 
 <p align="center">
-  <!-- Contribution activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautam-coder&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <!-- Trophy wall -->
   <img src="https://github-profile-trophy.vercel.app/?username=gautam-coder&theme=radical&row=1&column=7&margin-w=12&margin-h=12" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (animated)
-<!-- This image is built by a GitHub Action below; once actions run, the URLs will show your animated snake -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gautam-coder/gautam-coder/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gautam-coder/gautam-coder/output/snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gautam-coder/gautam-coder/output/snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/gautam-coder/gautam-coder/output/snake.svg">
   </picture>
 </p>
 
 ---
 
 ## 🧱 3D Contribution Graph (auto-generated)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gautam-coder/gautam-coder/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
 </p>
 
 ---
+
+## 📊 GitHub Metrics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gautam-coder/gautam-coder/master/metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/gautam-coder/gautam-coder/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
+---
 
 ## 🚀 Featured Projects
-- **PerceiveNow.ai** – Multi-agent diligence, RAG search, automated research reports  
-- **DSME** – Distributed secure media exchange (QUIC/UDP), resumable, fast chunking  
-- **DColor** – AI color-grading assistant: scene analysis, LUT/CDL/EXR export  
-- **AI Humanizer & Detectors** – Stylometry-aware text humanization and robust AI detection  
-- **AI Job Applier** – End-to-end resume tailoring + search + auto apply  
 
-> 🔖 Pin these repos on your profile for maximum visibility (Settings → “Pin repositories”).
+- **PerceiveNow.ai** → Multi-agent diligence platform with RAG search and report automation  
+- **DSME** → Distributed secure media exchange (QUIC/UDP, resumable uploads, blockchain logging)  
+- **DColor** → AI-powered film color grading (scene analysis, LUT/CDL/EXR export, real-time previews)  
+- **AI Humanizer & Detectors** → Stylometry-aware text humanization + robust AI detection models  
+- **AI Job Applier** → Automated resume tailoring, job search, and one-click applications  
+
+---
+
+## 🏆 Achievements
+
+- ⭐ 5-Star Python & Problem Solving – Hackerrank  
+- 🌍 Hacktoberfest Contributor  
+- 🪙 Summer of Bitcoin Program Participant  
+- 🏅 Rotary Club – Smart Entry System (RFID + QR)  
+- ❤️ Active contributor to NSS, Red Cross, IEEE  
 
 ---
 
 ## 📞 Let’s Connect
+
 <p align="center">
-  <a href="mailto:gautamgaur@gmail.com"><img src="https://img.shields.io/badge/Email-gautamgaur%40gmail.com-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gaurgoutam@gmail.com"><img src="https://img.shields.io/badge/Email-gaurgoutam%40gmail.com-D14836?logo=gmail&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gautamgaur/"><img src="https://img.shields.io/badge/LinkedIn-Gautam%20Gaur-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gautam-g-a07623193/"><img src="https://img.shields.io/badge/LinkedIn-Gautam%20Gaur-0A66C2?logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/gautam-coder"><img src="https://img.shields.io/badge/GitHub-gautam--coder-181717?logo=github&logoColor=white" /></a>
 </p>
