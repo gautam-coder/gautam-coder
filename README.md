@@ -26,7 +26,7 @@
 ## 👋 About Me
 
 I am **Gautam Gaur**, an **AI Engineer, Data Scientist, and Python Developer** with expertise in building **scalable AI systems, multi-agent architectures, and custom-trained models**.  
-With 3+ years of professional experience, I’ve delivered solutions that helped startups **raise funding, secure IP, and scale AI-driven products to millions of users**.
+I’ve delivered solutions that helped startups **raise funding, secure IP, and scale AI-driven products to millions of users**.
 
 ### 🔹 What I Do
 - 🧠 **AI Model Training** → Fine-tuned LLMs using **LoRA, GRPO reinforcement, contrastive learning, and stylometry-based features**.  
@@ -76,27 +76,6 @@ With 3+ years of professional experience, I’ve delivered solutions that helped
   <img src="https://github-profile-trophy.vercel.app/?username=gautam-coder&theme=radical&row=1&column=7&margin-w=12&margin-h=12" />
 </p>
 
----
-
-## 🐍 Contribution Snake (animated)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gautam-coder/gautam-coder/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gautam-coder/gautam-coder/output/snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/gautam-coder/gautam-coder/output/snake.svg">
-  </picture>
-</p>
-
----
-
-## 🧱 3D Contribution Graph (auto-generated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gautam-coder/gautam-coder/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
-</p>
-
----
 
 ## 📊 GitHub Metrics
 
@@ -110,7 +89,7 @@ With 3+ years of professional experience, I’ve delivered solutions that helped
 
 - **Enterprise OS** → Multi-agent diligence platform with RAG search and report automation  
 - **DSME Fast File Sharing** → Distributed secure media exchange (QUIC/UDP, resumable uploads, blockchain logging)  
-- **Color Grading** → AI-powered film color grading (scene analysis, LUT/CDL/EXR export, real-time previews)  
+- **Color Grading** → AI-powered film colour grading (scene analysis, LUT/CDL/EXR export, real-time previews)  
 - **AI Humanizer & Detectors** → Stylometry-aware text humanization + robust AI detection models  
 - **AI Job Applier** → Automated resume tailoring, job search, and one-click applications  
 
