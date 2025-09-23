@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily at midnight UTC
+    - cron: "0 0 * * *" # run daily
   workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 ensures token has repo write permissions
 
 jobs:
   build:
@@ -25,4 +28,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          token: ${{ secrets.METRICS_TOKEN }}   # 👈 force use of your PAT
+          token: ${{ secrets.METRICS_TOKEN }}   # 👈 enforce PAT, not bot
