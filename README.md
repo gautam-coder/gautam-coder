@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I am **Gautam Gaur**, an **AI Engineer, Data Scientist, and Python Developer** with expertise in building **scalable AI systems, multi-agent architectures, and custom-trained models**.  
+I am **Gautam Gaur**, an **AI/ML Engineer, Lead Data Scientist, and Python Developer** with expertise in building **scalable AI systems, multi-agent architectures, and custom-trained models**.  
 I’ve delivered solutions that helped startups **raise funding, secure IP, and scale AI-driven products to millions of users**.
 
 ### 🔹 What I Do
